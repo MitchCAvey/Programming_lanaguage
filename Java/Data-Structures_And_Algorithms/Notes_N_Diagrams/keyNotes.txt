@@ -1,0 +1,28 @@
+
+
+What is a data structure?
+
+Data structure: A named location that can be used to store an organize data
+
+Example: Family tree - A heirarchy of family relationships
+			 1. array - A collection of elements stored at contiguous memory locations.
+			
+What is an Algorithm?
+
+Algorithm - A collection of steps to sove a problem
+
+Example 1: Baking a pizza
+			 1. Heat the oven to 550 degrees F
+			 2. Knead the dough
+			 3. Add topings
+				...
+Example 2: Linear search one by one, examine the elements of an array to find a value
+			   1. String[] studentList = {"Marry", “Ted”, “John”, “Fred”};
+			
+Why learn DS & A?
+
+1. You'll write code that is both time and memory efficient
+2. Commonly asked questions involve DS&A in coding job interviews
+
+
+			
