@@ -1,0 +1,33 @@
+html{
+    background:black;
+}
+
+p{
+    color: azure;
+}
+
+/* This show cases how to use classes selector
+.red-text{
+    color:red;
+}
+
+.green-text{
+    color:green;
+}
+
+.blue-text{
+    color:blue;
+}
+
+This show cases how to use id selector 
+#main{
+    color:blueviolet;
+}
+
+p[draggable]{
+    color:blanchedalmond;
+}
+
+p[draggable="false"]{
+    color:cyan;
+} */

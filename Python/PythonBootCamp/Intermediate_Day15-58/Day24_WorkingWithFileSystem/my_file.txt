@@ -1,0 +1,7 @@
+Hello, 
+
+This file is being used to learning the basics of working with files in Python
+
+Adding new text to the file
+Adding new text to the file
+Adding new text to the file

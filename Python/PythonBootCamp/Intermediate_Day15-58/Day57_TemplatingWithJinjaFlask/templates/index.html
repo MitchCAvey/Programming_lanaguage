@@ -1,0 +1,22 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="/static/assets/css/styles.css" />
+        <!-- <link rel="stylesheet" href="/static/assets/css/styles.css" /> -->
+        <title>My Website</title>
+    </head>
+    <body>
+        <h1> Hello World!</h1>
+        <h2> The following will not evaluate: 5 * 6</h1>
+        <h2> The following will evaluate as Python code {{ 5 * 6 }}</h1>
+            <h3> Random Number: {{ num }}</h3>
+        <a href="{{ url_for('blog_page', num=3) }}">Go To Blog</a>
+    </body>
+    <footer id="main-footer">
+        <p>Copyright &copy {{ cur_yr }}, Avey Technologies</p>
+    </footer>
+</html>

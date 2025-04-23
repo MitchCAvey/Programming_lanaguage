@@ -1,0 +1,65 @@
+{
+    'cod': '200', 
+    'message': 0, 
+    'cnt': 4, 
+    'list': [
+        {'dt': 1720537200, 
+        'main': {
+            'temp': 298.92, 
+            'feels_like': 299.22, 
+            'temp_min': 298.92, 
+            'temp_max': 300.31, 
+            'pressure': 1012, 
+            'sea_level': 1012, 
+            'grnd_level': 996, 
+            'humidity': 64, 
+            'temp_kf': -1.39
+            }, 
+        'weather': [
+                {'id': 804, 
+                'main': 
+                'Clouds', 
+                'description': 
+                'overcast clouds', 
+                'icon': '04d'
+                }
+            ], 'clouds': {'all': 100
+            }, 'wind': {'speed': 2.85, 'deg': 248, 'gust': 4.9
+            }, 'visibility': 10000, 'pop': 0, 'sys': {'pod': 'd'
+            }, 'dt_txt': '2024-07-09 15: 00: 00'
+        },
+        {'dt': 1720548000, 'main': {'temp': 300.2, 'feels_like': 301.22, 'temp_min': 300.2, 'temp_max': 302.76, 'pressure': 1012, 'sea_level': 1012, 'grnd_level': 995, 'humidity': 59, 'temp_kf': -2.56
+            }, 'weather': [
+                {'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'
+                }
+            ], 'clouds': {'all': 100
+            }, 'wind': {'speed': 3.82, 'deg': 267, 'gust': 6.11
+            }, 'visibility': 10000, 'pop': 0.23, 'rain': {'3h': 0.15
+            }, 'sys': {'pod': 'd'
+            }, 'dt_txt': '2024-07-09 18: 00: 00'
+        },
+        {'dt': 1720558800, 'main': {'temp': 300, 'feels_like': 301.04, 'temp_min': 300, 'temp_max': 300.54, 'pressure': 1012, 'sea_level': 1012, 'grnd_level': 996, 'humidity': 60, 'temp_kf': -0.54
+            }, 'weather': [
+                {'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'
+                }
+            ], 'clouds': {'all': 100
+            }, 
+'wind': {'speed': 4.58, 'deg': 237, 'gust': 6.16
+            }, 'visibility': 10000, 'pop': 1, 'rain': {'3h': 0.57
+            }, 'sys': {'pod': 'd'
+            }, 'dt_txt': '2024-07-09 21: 00: 00'
+        },
+        {'dt': 1720569600, 'main': {'temp': 295.82, 'feels_like': 296.28, 'temp_min': 295.82, 'temp_max': 295.82, 'pressure': 1013, 'sea_level': 1013, 'grnd_level': 997, 'humidity': 82, 'temp_kf': 0
+            }, 'weather': [
+                {'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'
+                }
+            ], 'clouds': {'all': 100
+            }, 'wind': {'speed': 5.22, 'deg': 237, 'gust': 10.08
+            }, 'visibility': 10000, 'pop': 1, 'rain': {'3h': 1.91
+            }, 'sys': {'pod': 'd'
+            }, 'dt_txt': '2024-07-10 00: 00: 00'
+        }
+    ], 'city': {'id': 6092122, 'name': 'Oakville', 'coord': {'lat': 43.4724, 'lon': -79.6828
+        }, 'country': 'CA', 'population': 165697, 'timezone': -14400, 'sunrise': 1720518421, 'sunset': 1720573238
+    }
+}
