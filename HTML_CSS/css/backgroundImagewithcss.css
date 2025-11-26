@@ -1,0 +1,18 @@
+
+
+body{
+    background-image: url(../images/unix-software-program-logo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    color: hsl(56, 95%, 64%);
+    /* background-color: hsl(51, 100%, 50%); */
+}
+
+p{
+    color: hsl(56, 95%, 64%);
+}

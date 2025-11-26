@@ -1,0 +1,33 @@
+
+body{
+    margin: 0px
+}
+
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 205px;
+}
+
+
+/* All css attributes that are used the below id's, can also be use with
+    classes too
+*/
+#box1{
+    background-color: hsl(17, 98%, 49%);
+    margin-top: 50px;
+    /* margin-bottom: 50px; */
+    /* margin-left: 50px; */
+    margin: auto;
+}
+
+#box2{
+    background-color: hsl(313, 98%, 49%);
+    margin: 50px;
+}
+
+#box3{
+    background-color: hsl(194, 61%, 51%);
+    margin-left: auto;
+}

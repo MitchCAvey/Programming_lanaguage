@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+header{
+    background-color: grey;
+    text-align: center;
+    padding: 25px;
+}
+
+.navbar{
+    background-color: brown;
+    height: 50px;
+}
+
+aside{
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+
+section{
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
+
+article{
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+
+footer{
+    display: block;
+    clear: both;
+    background-color: grey;
+    text-align: center;
+    padding: 25px;
+}
+
+/* This will turn a desktop version or a max pixile size of 600px
+    it will fit the content into more of a mobile format.
+*/
+@media screen and (max-width:600px){
+    aside, section, article{
+        width: 100%;
+    }
+}

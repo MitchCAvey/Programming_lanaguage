@@ -1,0 +1,39 @@
+
+
+body{
+    margin: 0;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    border: 5px solid;
+    font-size: 13em;
+    text-align: center;
+
+    transform: translateX(100px) rotateZ(45deg) scale(0.5);
+}
+
+#box1{
+
+    background-color: hsl(120, 100%, 70%);
+
+    /* transform: translateX(50px);
+    transform: translateY(50px); */
+    /* transform: translate(50px, 25px); */
+    /* transform: rotateX(45deg);
+    transform: rotatey(45deg); */
+    /* transform: rotateZ(45deg); */
+    /*the value 1 = 100%, 2 = 200&, etc. */
+    /* transform: scaleX(1);  */
+    /* transform: skewX(45deg); */
+    /* transform: translateX(100%) rotateZ(90deg) scale(0.5); */
+}
+
+#box2{
+    background-color: hsl(4, 92%, 65%);
+}
+
+#box3{
+    background-color: hsl(239, 100%, 70%);
+}

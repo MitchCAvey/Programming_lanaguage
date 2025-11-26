@@ -1,0 +1,36 @@
+
+body{
+    background-color: #717378;
+}
+
+h1{
+    color: #FFD700;
+}
+
+/* This is how to add css to elements with an id attribute */
+#p1{
+    color: #305cde;
+}
+
+#p2{
+    color: #ffed29;
+}
+
+#p3{
+    color: red;
+}
+
+#p4{
+    color: green;
+}
+
+/* This is how to add css to elements with an class attribute  */
+
+.odd{
+    color: #305cde;
+}
+
+.even{
+    color: #ffed29;
+}
+
